@@ -34,8 +34,8 @@ Conduct a data analysis of the company's sales patterns to derive insights and p
 &nbsp; | matplotlib<br>seaborn<br>plotly | Visualization
 &nbsp;|&nbsp;| &nbsp;
 **Excel** |  |Reporting
-<br><br>
 
+<br><br>
 
 ## Data Sets
 
