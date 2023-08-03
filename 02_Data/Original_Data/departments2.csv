@@ -1,0 +1,22 @@
+department_id,department,department_category
+1,frozen,food
+2,other,miscellaneous
+3,bakery,food
+4,produce,food
+5,alcohol,beverages
+6,international,miscellaneous
+7,beverages,beverages
+8,pets,miscellaneous
+9,dry goods pasta,miscellaneous
+10,bulk,food
+11,personal care,non-food
+12,meat seafood,food
+13,pantry,food
+14,breakfast,food
+15,canned goods,food
+16,dairy eggs,food
+17,household,non-food
+18,babies,miscellaneous
+19,snacks,miscellaneous
+20,deli,food
+21,missing,miscellaneous
